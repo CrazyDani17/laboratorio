@@ -1,0 +1,29 @@
+Algoritmo para llegar a la cafetería desde mi casa
+1.- Si estoy sentado o acostado en alguna superficie, debo levantarme para dirigirme a la salida de mi casa.
+2.- Dirígete a la salida y abre la puerta, luego de salir, debes de cerrar la puerta. Si deseas llegar rápido debes tomar un medio de transporte motorizado, pero para ello necesitas dinero y debes seguir el paso 3 hacia adelante. Si no deseas gastar dinero o prefieres caminar, la verdad es que es muy cerca así que te tomará a paso ligero unos 30 minutos (debes de seguir el paso ¿ si elegiste la opción de caminar), si tienes una bicicleta deberás tomar el mismo recorrido de los autos, pero debes de tomar mucho cuidado.(Para ello debes de seguir el paso ) 
+3.- Dirígete hacia el paradero más cercano (voltea a la izquierda y ve hasta la primera esquina ahora voltea a la derecha y sigue hasta encontrar otra esquina, ahora voltea a la izquierda y colócate unos pasos antes del semáforo)-Nota: Paradero es donde todos esperan el autobús o taxi (medio de transporte motorizado) para dirigirse a un destino.
+4.- Debes de tomar el autobús que tenga como inicial: 38, A, C, D o 7 esquinas. También puedes elegir un taxi, pero te costará un poco más de dinero. Para detenerlo debes extender el brazo en forma horizontal y apuntando hacia el lado de la pista. 
+5.- Si paraste un autobús debes de seguir las siguientes instrucciones:
+5.1 Cuando se haya detenido el autobús dirígete hacia la puerta, sube y busca un asiento libre. Si no encuentras un asiento libre debes quedarte parado y dirigirte hacia el fondo tratando de no estorbar el paso y puedas salir.
+5.2 Ahora debes estar atento mirando la ventana, ya que cuando encuentres al lado izquierdo del autobús la fábrica de leche gloria, debes dirigirte hacia la salida del autobús y decirle al cobrador que bajarás en la universidad LaSalle. 
+5.3 Cuando el autobús se halla detenido, debes de pagarle al cobrador y bajar del autobús.
+5.4 Cuando hallas bajado debes de fijarte bien para cruzar la calle de modo que encuentres un momento en el cual los autos estén bastante alejados y cruzar.
+5.5 Sigue del paso 9 hacia adelante.
+6.- Si paraste un taxi debes seguir las siguientes instrucciones:
+6.1 Cuando se haya detenido el taxi dirígete hacia la ventana y le dices que te deje en la universidad LaSalle.
+6.2 Abre la puerta posterior o delantera, sube al taxi, toma asiento y cierra la puerta.
+6.3 Cuando hayas llegado al destino, págale al conductor, abre la puerta y baja del auto.
+6.4 Sigue del paso 9 hacia adelante.
+7.- Si decidiste ir a pie, debes de procurar ir por la vereda y si es necesario cruzar calles deberás cruzar con cuidado:
+7.1 Debes de dirigirte hacia la derecha y seguir hasta llegar a un colegio, luego debes de dirigirte hacia la izquierda hasta llegar a una esquina, luego debes de seguir por la derecha hasta llegar al grifo que se encuentra casi a la salida de Hunter.
+7.2 Cuando hayas llegado al grifo debes cruzar la pista y seguir a la derecha. Cuando hayas terminado de seguir el camino que es una curva. Llegarás a una iglesia (Estructura grande que normalmente lleva una cruz afuera en la pared o arriba de ella) y cruzar a la otra calle dirigiéndote a la derecha. Y seguir hasta llegar a la Universidad LaSalle.
+7.3 Seguir del paso 9 hacia adelante
+8.- Si decidiste ir en bicicleta debes de seguir los siguientes pasos:
+8.1 Debes de dirigirte a la derecha hasta llegar a un colegio, cuando hayas llegado hasta ahí debes de voltear a la izquierda y seguir de frente hasta encontrar una esquina. Cuando hayas llegado a la esquina debes de voltear a la derecha y seguir de frente hasta llegar a un grifo que se encuentra a la salida de Hunter.
+8.2 Luego debes de voltear a la derecha y seguir el camino que es una curva. Cuando hayas llegado a una esquina debes de voltear a la derecha y seguir de frente. Hasta llegar al colegio San José (Estructura de color naranja con blanco). Luego cruzar a la izquierda con cuidado.
+8.3 Seguir del paso 9 hacia adelante.
+9.- Cuando hayas llegado a la Universidad sigue los siguientes pasos:
+9.1 Entra por la por la puerta principal y sigue de frente hasta la capilla, luego voltea a la izquierda y sigue de frente.
+9.2 Cuando llegues a una esquina voltea a la derecha y sigue de frente, cuando encuentres otra esquina gira hacia la izquierda y sigue de frente hasta cruzar el área verde y luego voltea a la derecha y sigue de frente.
+9.3 Sube las gradas o la rampa y voltea a la izquierda. Si la puerta está cerrada, ábrela, de lo contrario entra a la cafetería.
+10.- Felicidades lo lograste ^0^.
