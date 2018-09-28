@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <string>
 using namespace std;
 
 int main()
@@ -19,13 +20,13 @@ int main()
     }
     for(int i=0; i<no_gusta.size();i++){
     for(int j=0; j<texto.size();j++){
-        if(no_gusta[i]==texto[j]){
-            cout << "Piii" << '\t';
-        }
-        else{
-            cout<< texto[j]<< '\t';
+        if(no_gusta[j]==texto[i]){
+            texto[i]="Piii";
         }
     }
+    }
+    for(int i=0; i<texto.size();i++){
+        cout<<texto[i]<<'\t';
     }
     return 0;
 }
