@@ -19,7 +19,7 @@ void Date::add_day(int n){}
 void Date::add_month(int n){}
 void Date::add_year(int n)
 {
-    if(m==feb && d==29 && !leapyear(y+n){
+    if(m==feb && d==29 && !leapyear(y+n)){
             m=mar;
             d=1;
        }
@@ -30,8 +30,7 @@ bool is_date(int y,Date::Month m,int d)
     if (d<=0)return false;
     int days_in_month=31;
     switch (m){
-        case Date::feb;
-            days_in_month=(leapyear())? 29:28;
+        case Date::feb:days_in_month=(leapyear(y))?29:28;
         break;
         case Date::apr: case Date::jun: case Date::sep: case Date:: nov:
             days_in_month=30;
@@ -53,7 +52,7 @@ bool operator==(const Date& a, const Date& b)
 }
 bool operator!=(const Date& a, const Date& b)
 {
-    return !(a=b);
+    return !(a==b);
 }
 ostream& operator<<(ostream& os, const Date& d)
 {
